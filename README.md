@@ -1,1 +1,2 @@
-# poo-3.1-JOY-individual
+# Atividade individual 3.1;
+Aluna: Joyciane Carvalho
